@@ -1,0 +1,43 @@
+{
+  "source_file": "functional-flavors/RESEARCH_CINNAMALDEHYDE_VARIETIES.md",
+  "status": "uncited narrative claims; not primary sample-level data",
+  "claims": [
+    {
+      "material": "Ceylon cinnamon essential oil",
+      "analyte": "cinnamaldehyde",
+      "range_percent": [
+        50,
+        75
+      ],
+      "basis": "percent of essential oil"
+    },
+    {
+      "material": "Cassia cinnamon essential oil",
+      "analyte": "cinnamaldehyde",
+      "range_percent": [
+        70,
+        95
+      ],
+      "basis": "percent of essential oil"
+    },
+    {
+      "material": "Ceylon ground powder",
+      "analyte": "cinnamaldehyde",
+      "range_percent": [
+        0.5,
+        2.0
+      ],
+      "basis": "percent by weight"
+    },
+    {
+      "material": "Cassia ground powder",
+      "analyte": "cinnamaldehyde",
+      "range_percent": [
+        1.5,
+        4.0
+      ],
+      "basis": "percent by weight"
+    }
+  ],
+  "note": "Ranges are copied from source narrative. The listed references are incomplete and ranges require validation against primary studies before scientific use."
+}
