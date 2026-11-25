@@ -1,5 +1,7 @@
 # Terputer: Cinnamaldehyde Variation in Cinnamon
 
+The [executed Terputer notebook](notebooks/analysis.ipynb) separates ranges reported by weight from ranges reported as a percentage of essential oil. Its saved cell outputs document the results of this audit. The [execution receipt](research/execution-receipts/analysis.json) identifies the exact notebook version.
+
 Evidence-scoping package for comparing cinnamaldehyde across cinnamon types. The source repository contains narrative ranges but no sample-level assay dataset or machine-readable citation-level measurements. Accordingly this package records claims and research gaps; it does not treat those ranges as measured study results.
 
 ## Run

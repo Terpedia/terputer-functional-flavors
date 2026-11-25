@@ -1,0 +1,11 @@
+{
+  "schema_version": 2,
+  "runner": "terputer-notebook-runner-v1",
+  "notebook": "notebooks/analysis.ipynb",
+  "source_notebook_sha256": "f6af36e03029303c9ddf51fba7e5824c7802773402d34e7e2832147e48d6650f",
+  "notebook_sha256": "e476ec3a937136284f32f4eec73ac7cce1702e3617d87829e1156662e8e57df4",
+  "executed_code_cells": 2,
+  "artifacts_written": {},
+  "python_version": "3.12.11",
+  "completed_at_utc": "2026-11-25T07:03:52.861300+00:00"
+}

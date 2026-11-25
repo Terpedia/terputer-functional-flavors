@@ -1,5 +1,7 @@
 # Cinnamaldehyde variation across cinnamon types: evidence and measurement plan
 
+The [executed Terputer notebook](../notebooks/analysis.ipynb) separates ranges reported by weight from ranges reported as a percentage of essential oil. Its saved cell outputs document the results of this audit. The [execution receipt](../research/execution-receipts/analysis.json) identifies the exact notebook version.
+
 **Study status:** scoping only; no primary measurement dataset assembled.
 
 ## Abstract
